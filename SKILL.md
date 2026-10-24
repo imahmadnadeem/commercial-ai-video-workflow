@@ -1,5 +1,5 @@
 ---
-name: ai-video-workflow
+name: commercial-ai-video-workflow
 description: Commercial AI video and hybrid production workflow system. Use when designing, directing, or executing brand video pipelines combining physical cameras (Sony FX3), 3D pre-viz (Blender), generative motion guidance, model tier routing, and timeline finishing.
 ---
 

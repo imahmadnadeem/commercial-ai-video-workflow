@@ -1,6 +1,6 @@
-# Commercial AI Video Workflow (`ai-video-workflow`)
+# Commercial AI Video Workflow (`commercial-ai-video-workflow`)
 
-[![skills.sh](https://img.shields.io/badge/skills.sh-ai--video--workflow-blue)](https://skills.sh)
+[![skills.sh](https://img.shields.io/badge/skills.sh-commercial--ai--video--workflow-blue)](https://skills.sh)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > A battle-tested hybrid AI video production workflow for creative directors, producers, and agencies. Developed by **Nadeem Ahmad** ([ahmadnadeem.in](https://ahmadnadeem.in)).
@@ -23,12 +23,12 @@ Install this skill directly into your AI coding assistant or agent environment:
 
 ```bash
 # Using skills.sh CLI
-npx skills add imahmadnadeem/ai-video-workflow
+npx skills add imahmadnadeem/commercial-ai-video-workflow
 ```
 
 Or clone manually into your local agent skills directory:
 ```bash
-git clone https://github.com/imahmadnadeem/ai-video-workflow.git ~/.gemini/config/skills/ai-video-workflow
+git clone https://github.com/imahmadnadeem/commercial-ai-video-workflow.git ~/.gemini/config/skills/commercial-ai-video-workflow
 ```
 
 ---
@@ -36,7 +36,7 @@ git clone https://github.com/imahmadnadeem/ai-video-workflow.git ~/.gemini/confi
 ## Repository Structure
 
 ```
-ai-video-workflow/
+commercial-ai-video-workflow/
 ├── README.md                      # Public documentation & installation guide
 ├── SKILL.md                       # Core Agent Skill specification with YAML frontmatter
 ├── references/
