@@ -3,7 +3,7 @@
 [![skills.sh](https://img.shields.io/badge/skills.sh-commercial--ai--video--workflow-blue)](https://skills.sh)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> A battle-tested hybrid AI video production workflow for creative directors, producers, and agencies. Developed by **Nadeem Ahmad** ([ahmadnadeem.in](https://ahmadnadeem.in)).
+> A battle-tested hybrid AI video production workflow for creative directors, producers, and agencies. Developed by **Nadeem Ahmad** ([ahmadnadeem.in](https://ahmadnadeem.in)) at **Studio Gangsters** ([studiogangsters.in](https://studiogangsters.in)).
 
 ---
 
@@ -61,6 +61,7 @@ commercial-ai-video-workflow/
 ## Author & Attribution
 
 - **Nadeem Ahmad** — Creative Director & Systems Builder
+- Company: **Studio Gangsters** ([studiogangsters.in](https://studiogangsters.in))
 - Website: [ahmadnadeem.in](https://ahmadnadeem.in)
 - Inquiries: [info.ahmadnadeem@gmail.com](mailto:info.ahmadnadeem@gmail.com)
 - LinkedIn: [linkedin.com/in/imahmadnadeem](https://www.linkedin.com/in/imahmadnadeem/)

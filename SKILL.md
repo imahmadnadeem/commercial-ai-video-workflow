@@ -5,7 +5,7 @@ description: Commercial AI video and hybrid production workflow system. Use when
 
 # Commercial AI Video & Hybrid Production Workflow
 
-A battle-tested production framework for creative directors, producers, and agencies building hybrid AI video pipelines. Developed by Nadeem Ahmad ([ahmadnadeem.in](https://ahmadnadeem.in)).
+A battle-tested production framework for creative directors, producers, and agencies building hybrid AI video pipelines. Developed by Nadeem Ahmad ([ahmadnadeem.in](https://ahmadnadeem.in)) at **Studio Gangsters** ([studiogangsters.in](https://studiogangsters.in)).
 
 ---
 
